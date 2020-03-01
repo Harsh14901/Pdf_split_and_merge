@@ -14,4 +14,6 @@ Here ```{file.pdf}``` is the path to the pdf file and the terms in the ```[]``` 
 
 ## Tip
 
-Add ```alias pdfmod='python3 path_to_this_script' ``` in your ```.bashrc``` file to run the python script directly from the terminal. 
+- Add ```alias pdfmod='python3 path_to_this_script' ``` in your ```.bashrc``` file to run the python script directly from the terminal.
+
+- **Please ensure that the file name doesn't contain the characters '[' or ']' anywhere.**
