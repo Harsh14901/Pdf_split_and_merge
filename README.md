@@ -3,6 +3,10 @@ This is a python script to enable you to split your pdf according to your wish a
 
 Gone are the days to upload a pdf file to a 'pdf modifier website' wait for them to make changes and then download it and then you get frustrated when it allows no more that certain number of pdf files or blocks your IP for a certain amount of time. Now avoid all these hassles by directly modifying pdf files right from your command line!
 
+# Dependencies
+
+This project depends on the ```PyPdf2``` library for python. It needs to be installed in your system first before runninh the script. It can simply be installed using the following command ```pip3 install PyPdf2```
+
 # Usage
 
 Run the python script and enter the file names in the following manner -:
